@@ -7,22 +7,22 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.3.0"
-    timestamp="1550215462520"
+    timestamp="1550215838923"
     token="-645687310490352858"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1532" />
+        duration="1165" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="45" />
+        duration="43" />
     <task
         name="verifier"
-        duration="68" />
+        duration="3" />
 
     <artifact
         location="D:\Semester6\PAM\DroidCafeInput\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -83,7 +83,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1550215462520"
+        timestamp="1550215838923"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\Semester6\PAM\DroidCafeInput\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
